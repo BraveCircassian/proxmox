@@ -3,9 +3,8 @@
 ```markdown
 # Proxmox Ubuntu 24.04 Cloud-Init Template Creator
 
- **Автор**: polson_r  
- **Версия**: 1.1.0  
- **Лицензия**: MIT  
+ **Версия** 1.1.0  
+ **Лицензия** MIT  
 
 Автоматизированный Bash-скрипт для развёртывания шаблонов виртуальных машин Ubuntu 24.04 с поддержкой Cloud-Init в среде Proxmox VE.
 
