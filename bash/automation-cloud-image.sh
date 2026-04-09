@@ -27,8 +27,8 @@ IPCONFIG0="ip=dhcp"
 DISK_RESIZE="8G"
 
 # Authentication
-SSH_PUBLIC_KEY=""
-CI_PASSWORD=""
+SSH_PUBLIC_KEY="/root/.ssh/id_rsa.pub"
+CI_PASSWORD="123123"
 
 # -----------------------------
 # Helper: ask question with default
