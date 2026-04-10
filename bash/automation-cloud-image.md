@@ -1,4 +1,3 @@
-```markdown
 # Proxmox Ubuntu 24.04 Cloud-Init Template Creator
 
 Bash-скрипт для автоматизированного создания шаблонов Ubuntu 24.04 с поддержкой Cloud-Init в среде Proxmox VE.
@@ -14,9 +13,10 @@ Bash-скрипт для автоматизированного создания
 
 Скачайте скрипт:
 
+```bash
 curl -fsSL "https://raw.githubusercontent.com/BraveCircassian/proxmox/refs/heads/stage/bash/automation-cloud-image.sh" -o automation-cloud-image.sh
 chmod +x automation-cloud-image.sh
-
+```
 
 ## Использование
 
