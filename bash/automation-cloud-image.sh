@@ -1,10 +1,8 @@
-cat automation-cloud-image.sh 
 #!/usr/bin/env bash
 set -euo pipefail
 
 # ------------------------------------------------------------------------------
 # Proxmox Ubuntu 24.04 Cloud-Init Template Creator
-# Author: polson_r
 # ------------------------------------------------------------------------------
 
 # -----------------------------
